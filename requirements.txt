@@ -1,0 +1,8 @@
+tsai
+pandas
+wfdb
+neurokit2
+Jupyter
+matplotlib
+tqdm
+torch
