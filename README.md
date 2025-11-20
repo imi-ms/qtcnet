@@ -28,7 +28,19 @@ Lead order expected by the model
 I, II, III, aVR, aVF, aVL, V1, V2, V3, V4, V5, V6
 ```
 
-Citations:
+### Legal disclaimer
+
+This software tool is intended solely for research and informational purposes. 
+It is NOT a medical device and has NOT been approved or certified by any regulatory agency. 
+The tool must NOT be used for clinical decision-making or patient management. 
+Users are solely responsible for compliance with applicable laws and regulations. 
+The authors and contributors accept no responsibility or liability for any damages or 
+consequences arising from the use of this software.
+
+### Reference
+
+If you use this repository, please cite:
+
 ```
 @article{10.1093/europace/euaf274,
     author = {Plagwitz, Lucas and Doldi, Florian and Magerfleisch, Jannes and Zotov, Maxim and Bickmann, Lucas and Heider, Dominik and Varghese, Julian and Eckardt, Lars and Büscher, Antonius},
